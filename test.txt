@@ -4,4 +4,3 @@ GIT-0005 merge pull request
 new line
 add line
 
-https://easesolutions-demo.monday.com/item/TSCR-005
